@@ -7,7 +7,9 @@ This example shows how SOLVE-IT can be used to examine a forensic workflow and c
 
 For this example we can take the process required to acquire data from a hard disk. 
 
-Referred to broadly as 'disk imaging', when mapped as a *process* against SOLVE-IT technqiues, there are several techqniues that are used.
+Referred to broadly as 'disk imaging', 
+when mapped as a *process* against SOLVE-IT techniques, 
+there are several that are used. For example:
 
 * T1012: Hardware write blocker[^1]
 * T1002: Disk imaging
