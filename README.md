@@ -7,7 +7,7 @@ Forensic imaging is often defined as a single process. However, when mapped agai
 This (in progress) example will illustrate how techniques can have dependencies and how that means that some weaknesses in one technique can cause weaknesses in others. 
 
 ## Subtleties in mitigation approaches: a file system example
-This example illustrates how mitigations that are sometimes used interchangably are not, and how they need to be selected and used carefully in specific circumstances. 
+This (in progress) example illustrates how mitigations that are sometimes used interchangably are not, and how they need to be selected and used carefully in specific circumstances. 
 
 ## Mapping of techniques: a drone forensics example
-This example illustrates how a domain within digital forensics can be taken, and the knowledge based used to isolate the technqiues used within that area. 
+This (in progress) example illustrates how a domain within digital forensics can be taken, and the knowledge based used to isolate the technqiues used within that area. 
