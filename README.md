@@ -1,6 +1,6 @@
 # A series of examples making use of the SOLVE-IT knowledge base
 
-## Forensic workflow example: forensic Imaging
+## Forensic workflow example: forensic imaging
 Forensic imaging is often defined as a single process. However, when mapped against SOLVE-IT technqiues it reveals a series of technqiues are used. This example shows how to compile the techniques used for a process and examine the weaknesses and the extent to which they are mitigated within an implementation of the workflow. 
 See full example [here](https://github.com/chrishargreaves/solve-it-examples/tree/main/forensic_workflow_example_forensic_imaging).
 
