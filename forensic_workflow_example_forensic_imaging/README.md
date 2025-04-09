@@ -45,7 +45,7 @@ This allows the overall process to be reviewed, and the dropdowns used to record
 * M1072 Regular checks for hardware write blocker firmware updates.
 * M1073 Subscription to notifications from write blocker vendor for firmware updates or identified problems.
 
-A full example example XLXS file for this example is available here, generated in the exact manner described above. 
+A full example .XLXS file for this illustration is available [here](forensic_workflow_example_forensic_imaging%2Fcase_evaluation-imaging-example.xlsx), generated in the exact manner described above. 
 
 ## Extending this with 'lab configurations'
 
