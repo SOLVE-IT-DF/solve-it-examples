@@ -25,7 +25,7 @@ The utility python script `generate_evaluation.py` can be used here.
 Running the script with those technique IDs as parameters, compiles an Excel spreadsheet that extracts the weaknesses and available mitigations into a reviewable form.
 
 ```
-python generate_evaluation.py T1021 T1002 T1025 T1042
+python generate_evaluation.py T1012 T1002 T1025 T1042
 ```
 
 
