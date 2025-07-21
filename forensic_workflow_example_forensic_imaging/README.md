@@ -51,7 +51,7 @@ A full example .XLXS file for this illustration is available [here](case_evaluat
 
 The 'lab configuration' option is designed to automate completion of some of the fields in the generated spreadsheets. There are several reasons why can be useful:
 
-* A standard workflow is always used in a specific way so 'NA' could be always auto-populated. e.g. a lab never uses software write blockers, only hardware write blockers, so _M1008 Use software write blocker_ should always be _NA_ and _M1007 Use hardware write blocker_ could always be Y.
+* A standard workflow is always used in a specific way so 'NA' could be always auto-populated. e.g. a lab never uses software write blockers, only hardware write blockers, so _M1008: Use software write blocker_ should always be '_NA_' and _M1007: Use hardware write blocker_ could always be 'Y'.
 * A tool has provided a configuration script, describing the testing that has been performed, thus auto populating Y where tool testing for specific mitigations has been performed by the vendor or open source tool developer.
 
 Lab configurations are JSON files (examples are provided [here](https://github.com/SOLVE-IT-DF/solve-it/tree/main/lab_config_examples)) and an extracts are shown below. Tehy all illustrate how mitigations for specific weakness can be auto-populated with a value
