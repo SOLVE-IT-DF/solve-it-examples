@@ -1,4 +1,4 @@
-# Forensic workflow example: forensic Imaging
+# Forensic workflow example: forensic imaging
 
 ## Introduction
 This example shows how SOLVE-IT can be used to examine a forensic workflow and consider the weaknesses in the process and evaluate the mitigations in place.
