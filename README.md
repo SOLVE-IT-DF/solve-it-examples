@@ -21,4 +21,4 @@ This (in progress) example illustrates how mitigations that are sometimes used i
 This (in progress) example illustrates how a domain within digital forensics can be taken, and the knowledge based used to isolate the techniques used within that area. 
 
 ## Use of other organizational schemas
-This example shows how the techniques can be reorganized by whatever schema or process model you want. 
+This example shows how the techniques can be reorganized by whatever schema or process model is required. See full example [here](reorganization_of_techniques).
