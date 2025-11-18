@@ -25,7 +25,7 @@ To make use of alternative models, instantiate the SOLVE-IT library with teh pat
 ```
 
 
-To use `generate_excel_from_kb.py`, you need to directly edit the code, changing the variable `config_file` from `solveit.json` to the path to your custom json file. If you want to run the demo files provided you will also need to run the generation script with the `--ignore_unindexed_techniques`, as these demo files are not updated with all the latest techniques and will trigger the inconsistency checks otherwise. 
+To use `generate_excel_from_kb.py`, you need to directly edit the code, changing the variable `config_file` from `solve-it.json` to the path to your custom json file. If you want to run the demo files provided you will also need to run the generation script with the `--ignore_unindexed_techniques`, as these demo files are not updated with all the latest techniques and will trigger the inconsistency checks otherwise. 
 
 You will see output similar to below where the techniques are now indexed according to a different scheme. 
 
