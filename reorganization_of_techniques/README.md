@@ -5,8 +5,8 @@ This example shows how the techniques can be reorganized using a different confi
 
 The files:
 
-[carrier.json](carrier.json)
-[dfrws.json](dfrws.json)
+- [carrier.json](carrier.json)
+- [dfrws.json](dfrws.json)
 
 can be used to organize the techniques according to those process models. 
 
