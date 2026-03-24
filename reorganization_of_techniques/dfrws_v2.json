@@ -1,0 +1,148 @@
+[
+    {"name":"Identification",
+     "id": "DFRWS-IDENTITY",
+     "description": "Detect the crime or incident from indicators, anomalies, complaints, system monitoring, audit analysis, or other signs.",
+     "techniques": [
+        "DFT-1005", 
+        "DFT-1006", 
+        "DFT-1009", 
+        "DFT-1008", 
+        "DFT-1007"
+    ]
+    },
+
+    {"name":"Preservation",
+     "id": "DFRWS-PRESERVATION",
+     "description": "Case management, forensic imaging, chain of custody, and time synchronization.",
+     "techniques": [
+        "DFT-1014", 
+        "DFT-1011", 
+        "DFT-1010", 
+        "DFT-1012", 
+        "DFT-1013"
+    ]
+    },
+
+    {"name":"Collection",
+     "id": "DFRWS-COLLECTION",   
+    "description": "Preservation using approved/validated methods, including recovery techniques, lossless compression, data reduction, and sampling.",
+    "techniques": [
+        "DFT-1028", 
+        "DFT-1023", 
+        "DFT-1024", 
+        "DFT-1029", 
+        "DFT-1030",
+        "DFT-1027", 
+        "DFT-1002", 
+        "DFT-1016", 
+        "DFT-1003", 
+        "DFT-1019",
+        "DFT-1022", 
+        "DFT-1020", 
+        "DFT-1017", 
+        "DFT-1015",
+        "DFT-1018", 
+        "DFT-1004", 
+        "DFT-1026", 
+        "DFT-1025"
+    ]
+    },
+
+
+    {"name":"Examination",
+     "id": "DFRWS-EXAMINATION",
+     "description": "Preservation, traceability, filtering, pattern matching, hidden data discovery, and hidden data extraction.",
+     "techniques": [
+        "DFT-1053",
+        "DFT-1062", 
+        "DFT-1061", 
+        "DFT-1064", 
+        "DFT-1063",  
+        "DFT-1059", 
+        "DFT-1060",
+        "DFT-1067", 
+        "DFT-1065", 
+        "DFT-1097", 
+        "DFT-1066", 
+        "DFT-1068", 
+        "DFT-1096", 
+        "DFT-1098",
+        "DFT-1069", 
+        "DFT-1073", 
+        "DFT-1072", 
+        "DFT-1078", 
+        "DFT-1071", 
+        "DFT-1070", 
+        "DFT-1075", 
+        "DFT-1077", 
+        "DFT-1074",
+        "DFT-1079", 
+        "DFT-1082", 
+        "DFT-1081", 
+        "DFT-1080",
+        "DFT-1083",
+        "DFT-1084", 
+        "DFT-1099"
+
+    ]
+    },
+
+    {"name":"Analysis",
+     "id": "DFRWS-ANALYSIS",
+    "description": "Preservation, traceability, statistical, protocols, data mining, timeline, link, spacial.",
+    "techniques": [
+        "DFT-1047", 
+        "DFT-1048", 
+        "DFT-1046", 
+        "DFT-1054", 
+        "DFT-1056", 
+        "DFT-1055", 
+        "DFT-1051", 
+        "DFT-1050", 
+        "DFT-1049", 
+        "DFT-1058", 
+        "DFT-1057", 
+        "DFT-1052", 
+        "DFT-1085",
+        "DFT-1087", 
+        "DFT-1088", 
+        "DFT-1086"
+    ]
+    },
+
+    {"name":"Presentation",
+     "id": "DFRWS-PRESENTATION",
+     "description": "Documentation, expert testimony, clarification, mission impact statement, recommended countermeasures, and statistical interpretation.",
+     "techniques": [
+        "DFT-1091", 
+        "DFT-1094", 
+        "DFT-1092", 
+        "DFT-1093"
+    ]
+    },
+
+    {"name":"NA",
+     "id": "DFRWS-NA",
+     "description": "These are techqniues that have been reviewed and do not fit well into this model",
+     "techniques": [
+        "DFT-1001",
+        "DFT-1039", 
+        "DFT-1034", 
+        "DFT-1035", 
+        "DFT-1033", 
+        "DFT-1031", 
+        "DFT-1041", 
+        "DFT-1038", 
+        "DFT-1032", 
+        "DFT-1036", 
+        "DFT-1040",
+        "DFT-1045", 
+        "DFT-1042", 
+        "DFT-1043", 
+        "DFT-1044",
+        "DFT-1090", 
+        "DFT-1095", 
+        "DFT-1089"
+                    ]
+    }
+]

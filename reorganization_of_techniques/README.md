@@ -3,10 +3,16 @@
 ## Introduction
 This example shows how the techniques can be reorganized using a different configuration file ([solve-it.json](https://github.com/SOLVE-IT-DF/solve-it/blob/main/data/solve-it.json) is the standard organization).
 
-The files:
+Current files:
 
-- [carrier.json](carrier.json)
+- [dfrws_v2.json](dfrws_v2.json)
+
+Older files (no longer compatible):
+
+- [carrier.json](carrier.json) 
 - [dfrws.json](dfrws.json)
+
+
 
 can be used to organize the techniques according to those process models. 
 
@@ -18,7 +24,7 @@ To make use of alternative models, instantiate the SOLVE-IT library with teh pat
 ```
 >>> from solve_it_library import KnowledgeBase
 
->>> config_file = '/Users/user/Desktop/dfrws.json'
+>>> config_file = '/Users/user/Desktop/dfrws_v2.json'
 >>> solve_it_root = '/Users/user/dev/solve-it'
 >>> kb = KnowledgeBase(solve_it_root, config_file)
 
